@@ -7,3 +7,4 @@ eureka:
 spring:
   application:
     name: ms-gateway
+teste: teste213
